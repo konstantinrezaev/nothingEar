@@ -32,6 +32,10 @@ nav {
     text-decoration: none;
 }
 
+.navLink:hover {
+    opacity: 0.5;
+}
+
 .title {
     text-align: center;
 }
@@ -309,6 +313,10 @@ nav {
     letter-spacing: -0.06em;
     text-decoration: none;
     color: #FFFFFF;
+}
+
+.socialLink:hover {
+    color: #FF25C2;
 }
 
 .footerNav {
